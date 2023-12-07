@@ -1,0 +1,15 @@
+/home/mitedescdev/code/UBSPets/src/UBSPets/bin/Debug/net7.0/UBSPets
+/home/mitedescdev/code/UBSPets/src/UBSPets/bin/Debug/net7.0/UBSPets.deps.json
+/home/mitedescdev/code/UBSPets/src/UBSPets/bin/Debug/net7.0/UBSPets.runtimeconfig.json
+/home/mitedescdev/code/UBSPets/src/UBSPets/bin/Debug/net7.0/UBSPets.dll
+/home/mitedescdev/code/UBSPets/src/UBSPets/bin/Debug/net7.0/UBSPets.pdb
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/UBSPets.csproj.AssemblyReference.cache
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/UBSPets.GeneratedMSBuildEditorConfig.editorconfig
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/UBSPets.AssemblyInfoInputs.cache
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/UBSPets.AssemblyInfo.cs
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/UBSPets.csproj.CoreCompileInputs.cache
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/UBSPets.dll
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/refint/UBSPets.dll
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/UBSPets.pdb
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/UBSPets.genruntimeconfig.cache
+/home/mitedescdev/code/UBSPets/src/UBSPets/obj/Debug/net7.0/ref/UBSPets.dll
