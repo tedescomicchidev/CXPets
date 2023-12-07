@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mitedescdev/code/UBSPets/src/UBSPets/UBSPets.csproj",
+      "projectUniqueName": "/home/mitedescdev/code/UBSPets/src/CXPets/UBSPets.csproj",
       "projectName": "UBSPets",
-      "projectPath": "/home/mitedescdev/code/UBSPets/src/UBSPets/UBSPets.csproj",
+      "projectPath": "/home/mitedescdev/code/UBSPets/src/CXPets/UBSPets.csproj",
       "packagesPath": "/home/mitedescdev/.nuget/packages/",
-      "outputPath": "/home/mitedescdev/code/UBSPets/src/UBSPets/obj/",
+      "outputPath": "/home/mitedescdev/code/UBSPets/src/CXPets/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mitedescdev/.nuget/NuGet/NuGet.Config"

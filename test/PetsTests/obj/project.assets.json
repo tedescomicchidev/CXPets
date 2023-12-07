@@ -6116,8 +6116,8 @@
     },
     "UBSPets/1.0.0": {
       "type": "project",
-      "path": "../../src/UBSPets/UBSPets.csproj",
-      "msbuildProject": "../../src/UBSPets/UBSPets.csproj"
+      "path": "../../src/CXPets/UBSPets.csproj",
+      "msbuildProject": "../../src/CXPets/UBSPets.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6154,8 +6154,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/mitedescdev/code/UBSPets/src/UBSPets/UBSPets.csproj": {
-              "projectPath": "/home/mitedescdev/code/UBSPets/src/UBSPets/UBSPets.csproj"
+            "/home/mitedescdev/code/UBSPets/src/CXPets/UBSPets.csproj": {
+              "projectPath": "/home/mitedescdev/code/UBSPets/src/CXPets/UBSPets.csproj"
             }
           }
         }

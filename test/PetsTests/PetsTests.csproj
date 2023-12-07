@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\UBSPets\UBSPets.csproj" />
+    <ProjectReference Include="..\..\src\CXPets\UBSPets.csproj" />
   </ItemGroup>
 
 </Project>
