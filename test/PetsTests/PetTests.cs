@@ -31,4 +31,13 @@ public class PetTests
         Assert.Equal(expected, actual);
     }
 
+    [Fact]
+    public void SnakeTalkToOwnerReturnsHiss()
+    {
+        string expected = "Hiss!";
+        string actual = new Snake().TalkToOwner();
+
+        Assert.Equal(expected, actual);
+    }
+
 }
